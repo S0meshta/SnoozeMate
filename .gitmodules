@@ -1,0 +1,6 @@
+[submodule "SnoozeMateEDA"]
+	path = SnoozeMateEDA
+	url = https://github.com/S0meshta/SnoozeMateEDA
+[submodule "SnoozeMate3dCAD"]
+	path = SnoozeMate3dCAD
+	url = https://github.com/S0meshta/SnoozeMate3dCAD
